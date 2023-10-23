@@ -1,0 +1,251 @@
+{
+"articles" : [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh, Hakyung Kim",
+      "title": "Dow sheds 100 points after new data points to persistent U.S. inflation: Live updates - CNBC",
+      "description": "The major averages are coming off of four consecutive winning days.",
+      "url": "https://www.cnbc.com/2023/10/11/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107267548-1688656413805-gettyimages-1519485548-0f5a3496_3td4ci3r.jpeg?v=1697120172&w=1920&h=1080",
+      "publishedAt": "2023-10-12T14:00:00Z",
+      "content": "U.S. stocks declined Thursday as investors looked toward new consumer inflation data for greater insight on the economy, putting the major averages on track to snap their 4-day winning streak.\r\nThe D… [+1447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Josh Nathan-Kazis",
+      "title": "Walgreens Earnings Disappointed. Why the Stock Is Rising. - Barron's",
+      "description": "Walgreens posts fourth-quarter earnings of 67 cents a share, down from 80 cents in the same quarter last year.",
+      "url": "https://www.barrons.com/articles/walgreens-earnings-stock-price-e6615529",
+      "urlToImage": "https://images.barrons.com/im-09923924/social",
+      "publishedAt": "2023-10-12T13:35:00Z",
+      "content": "Updated Oct 12, 2023, 7:18 am EDT / Original Oct 11, 2023, 5:00 pm EDT"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ryan Ermey",
+      "title": "Stocks go up in in the fourth quarter of the year 80% of the time—what that means for your money - CNBC",
+      "description": "Market history tells us that the last three months of the year tend to be a good time for stocks. Here's how investing pros think about stock market history.",
+      "url": "https://www.cnbc.com/2023/10/12/what-fourth-quarter-market-history-means-for-your-money.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107315288-1697038812044-gettyimages-1323167372-dsc00607.jpeg?v=1697117127&w=1920&h=1080",
+      "publishedAt": "2023-10-12T13:25:27Z",
+      "content": "Don't look now, but the market is entering what's historically been a good period for investors. No, it's not McRib season, although there's a case to made that the sandwich's reappearance bodes well… [+3949 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Tami Luhby",
+      "title": "Senior citizens will see a much smaller Social Security boost for 2024 - CNN",
+      "description": "Social Security recipients will receive an annual cost-of-living adjustment of 3.2% for 2024, a much smaller increase than the inflation-fueled boosts of the past two years, the Social Security Administration announced Thursday.",
+      "url": "https://www.cnn.com/2023/10/12/politics/social-security-increase-benefits-cola/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231011134430-social-security-boost-2024.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-12T13:11:00Z",
+      "content": "Social Security recipients will receive an annual cost-of-living adjustment of 3.2% for 2024, a much smaller increase than the inflation-fueled boosts of the past two years, the Social Security Admin… [+6303 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Will Feuer",
+      "title": "AMC Entertainment CEO Adam Aron Says He Was Victim of Blackmail Plot - The Wall Street Journal",
+      "description": "Executive says extortionist was arrested, sentenced last year",
+      "url": "https://www.wsj.com/business/amc-entertainment-ceo-adam-aron-says-he-was-victim-of-blackmail-plot-8180abbd",
+      "urlToImage": "https://images.wsj.net/im-867091/social",
+      "publishedAt": "2023-10-12T12:54:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jim Cramer",
+      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday - CNBC",
+      "description": "The consumer price index for September comes in hotter than expected.",
+      "url": "https://www.cnbc.com/2023/10/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107315281-1697038510810-gettyimages-1719184818-AFP_33Y297J.jpeg?v=1697115122&w=1920&h=1080",
+      "publishedAt": "2023-10-12T12:52:02Z",
+      "content": "<ol><li>The consumer price index for September comes in hotter than expected. (Much like producer prices did Wednesday.) CPI sends bond yields higher and puts some pressure on futures tied to the Dow… [+3589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Tony Kurzweil, Erin Myers",
+      "title": "SoCal’s latest billionaire a mystery after winning Powerball jackpot - KTLA Los Angeles",
+      "description": "Southern California’s newest billionaire remains a mystery after winning Wednesday night’s Powerball jackpot. We know the $1.7 billion winning ticket was sold at Midway Market & Liquor located at 6032 Frazier Mountain Park Road in Kern County. KTLA has reache…",
+      "url": "https://ktla.com/news/local-news/socals-latest-billionaire-a-mystery-after-winning-powerball-jackpot/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/10/snapshot-6-2.jpg?w=1280",
+      "publishedAt": "2023-10-12T12:51:43Z",
+      "content": "Southern Californias newest billionaire remains a mystery after winning Wednesday nights Powerball jackpot.\r\nWe know the $1.7 billion winning ticket was sold at Midway Market &amp; Liquor located at … [+1205 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Tourists spending thousands to get out of Israel - BBC.com",
+      "description": "Some travellers are paying vast amounts for flights that end up being cancelled as they try to leave the country.",
+      "url": "https://www.bbc.com/news/business-67087647",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CA57/production/_131399715_lisa-002.jpg",
+      "publishedAt": "2023-10-12T12:40:20Z",
+      "content": "Some UK tourists are spending thousands of pounds on flights to try to get out of Israel, describing the situation as \"horrendous\".\r\nMany commercial carriers have suspended flights after Palestinian … [+4773 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WCVB Boston"
+      },
+      "author": null,
+      "title": "Newton native Caroline Ellison testifies about collapse of FTX at trial of Sam Bankman-Fried - WCVB Boston",
+      "description": "She testified that FTX founder Sam Bankman-Fried said rules like “don't lie” or “don't steal” must sometimes be set aside.",
+      "url": "https://www.wcvb.com/article/newton-massachusetts-caroline-ellison-testimony-ftx-sam-bankman-fried/45518998",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1728398338-caroline-ellison-ftx-6526eb6e98f51.jpg?crop=1.00xw:0.846xh;0,0.127xh&resize=1200:*",
+      "publishedAt": "2023-10-12T12:26:00Z",
+      "content": "NEW YORK —Sam Bankman-Fried's former top executive, testifying in Manhattan federal court Wednesday, blamed the FTX founder for corrupting her values so she could lie and steal and got emotional when… [+5656 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jenni Reid",
+      "title": "Oil price shock could spur another rate hike, European Central Bank member says - CNBC",
+      "description": "Pierre Wunsch said European Central Bank members have a different way of thinking about inflation than they did two years ago.",
+      "url": "https://www.cnbc.com/2023/10/12/pierre-wunsch-oil-shock-could-spur-an-ecb-hike-central-bank-governor-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107315807-1697103154974-gettyimages-1249057326-GERMANY_ECB_WATCHERS.jpeg?v=1697112497&w=1920&h=1080",
+      "publishedAt": "2023-10-12T12:08:17Z",
+      "content": "The latest euro zone inflation figures are \"comforting\" but oil prices still pose a risk that could push the European Central Bank into another rate hike, Belgium's central bank governor said Thursda… [+2546 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNBC",
+      "title": "Former Barclays CEO Staley fined and banned by UK regulator over Epstein links - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTAvMTIvZm9ybWVyLWJhcmNsYXlzLWNlby1zdGFsZXktZmluZWQtYW5kLWJhbm5lZC1ieS11ay1yZWd1bGF0b3Itb3Zlci1lcHN0ZWluLWxpbmtzLmh0bWzSAXdodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8xMC8xMi9mb3JtZXItYmFyY2xheXMtY2VvLXN0YWxleS1maW5lZC1hbmQtYmFubmVkLWJ5LXVrLXJlZ3VsYXRvci1vdmVyLWVwc3RlaW4tbGlua3MuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-12T11:56:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Apollo CEO Marc Rowan demands UPenn leaders quit over 'antisemitism' - CNBC Television",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=z0F8iyUkbxA",
+      "urlToImage": null,
+      "publishedAt": "2023-10-12T11:54:01Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Anti-Prime Day Deals Still Available at Target, Walmart and Other Stores - CNET",
+      "description": "If you didn't get everything you wanted during Amazon's October Prime Day event, here are some other deals you can still grab.",
+      "url": "https://www.cnet.com/deals/anti-prime-day-deals-still-available-at-target-walmart-other-stores/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e792f8c5867905d414f3b4562f7ad38e8493160d/hub/2023/10/09/bbe3382e-660f-4607-a7b2-97bd5c108b0d/cnet-prime-big-deal-day-38.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-10-12T11:54:00Z",
+      "content": "Amazon's October Prime Day sale may be over, but if you're looking to take advantage of major discounts, you'll find that there are still plenty of deals available at other retailers. Whether you're … [+12089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTVI Fox 2 St. Louis"
+      },
+      "author": "JIM SALTER, Associated Press",
+      "title": "$1.765 billion Powerball jackpot goes to lucky lottery player in California - KTVI Fox 2 St. Louis",
+      "description": "ST. LOUIS (AP) — A player in California won a $1.765 billion Powerball jackpot Wednesday night, ending a long stretch without a winner of the top prize. The winning numbers were: 22, 24, 40, 52, 64 and the Powerball 10. The winning ticket was sold at Midway M…",
+      "url": "https://fox2now.com/news/missouri/ap-second-biggest-us-lottery-prize-ever-is-up-for-grabs-in-powerball-drawing/",
+      "urlToImage": "https://fox2now.com/wp-content/uploads/sites/14/2023/10/6527ec919e1c33.27220589.jpeg?w=1280",
+      "publishedAt": "2023-10-12T11:44:45Z",
+      "content": "ST. LOUIS (AP) A player in California won a $1.765 billion Powerball jackpot Wednesday night, ending a long stretch without a winner of the top prize.\r\nThe winning numbers were: 22, 24, 40, 52, 64 an… [+3687 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Joseph White, Abhirup Roy, David Shepardson",
+      "title": "Surprise UAW strike at Ford raises stakes for Detroit Three - Reuters",
+      "description": "The United Auto Workers (UAW) snap strike on Wednesday at Ford's largest and most profitable factory is raising pressure on Stellantis NV and General Motors as negotiators will resume contract talks on Thursday.",
+      "url": "https://www.reuters.com/business/autos-transportation/uaw-shuts-down-fords-biggest-plant-stellantis-talks-resuming-2023-10-12/",
+      "urlToImage": "https://www.reuters.com/resizer/RVRQV88H6i3Fn59u_0smbGeDi7Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GTDE74T7HNOEBLDZY5H6CY6PCU.jpg",
+      "publishedAt": "2023-10-12T11:27:00Z",
+      "content": "DETROIT, Oct 12 (Reuters) - The United Auto Workers (UAW) snap strike on Wednesday at Ford's largest and most profitable factory is raising pressure on Stellantis NV and General Motors as negotiators… [+5932 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Greene: Markets have the potential to rally into year-end despite rising geopolitical risks - CNBC Television",
+      "description": "Victoria Greene, Founding Partner and CIO of G Squared Private Wealth, discusses the markets, consumer spending, and her stock picks. For access to live and ...",
+      "url": "https://www.youtube.com/watch?v=1SW6fIf73K0",
+      "urlToImage": "https://i.ytimg.com/vi/1SW6fIf73K0/maxresdefault.jpg",
+      "publishedAt": "2023-10-12T11:25:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MIT Technology Review"
+      },
+      "author": "Casey Crownhart",
+      "title": "The quest for equitable climate solutions - MIT Technology Review",
+      "description": "Shalanda Baker, director of the Office of Economic Impact and Diversity at the US Department of Energy, speaks about the agency’s efforts to address climate change and inequality.",
+      "url": "https://www.technologyreview.com/2023/10/12/1081515/the-quest-for-equitable-climate-solutions/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2023/10/RJJaczko_HaloCreative_MIT_ClimateTech_10052023-2.jpg?resize=1200,600",
+      "publishedAt": "2023-10-12T11:00:00Z",
+      "content": "Afterwards, Baker sat down with us for a conversation about how to distribute the benefits of new technologies and address community concerns around new projects. \r\nThis conversation has been edited … [+1772 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Delta Air Lines profit jumps almost 60% after strong summer - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMTAvMTIvZGVsdGEtYWlyLWxpbmVzLWRhbC1xMy0yMDIzLWVhcm5pbmdzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8xMC8xMi9kZWx0YS1haXItbGluZXMtZGFsLXEzLTIwMjMtZWFybmluZ3MuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-10-12T10:31:47Z",
+      "content": "Reference code:  es=ABAdc_g0N6vleIbFAy9MmEOGx92MEUV7cbhmW6iDFQeD9IVGvzah3J65re36_iikZ4wj5KVD7hc93ASDUD5iZBXp3ffZu5d88w"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Adam Rogers",
+      "title": "Missy Cummings, a Top Robotics Expert, Is Elon Musk's Worst Nightmare - Business Insider",
+      "description": "Missy Cummings flew fighter jets for the Navy. Now, as a leading expert on automation and AI, she's taking aim at self-driving cars.",
+      "url": "https://www.businessinsider.com/missy-cummings-robot-taxis-tesla-elon-musk-autonomous-cruise-waymo-2023-10",
+      "urlToImage": "https://i.insider.com/6526f5a86561dd877e77f565?width=1200&format=jpeg",
+      "publishedAt": "2023-10-12T09:00:00Z",
+      "content": "In 2021, an engineer named Missy Cummings drew the ire of Elon Musk on the social network then called Twitter. A professor at Duke University, Cummings had conducted research on the safety of self-dr… [+11426 chars]"
+    }
+]
+}
